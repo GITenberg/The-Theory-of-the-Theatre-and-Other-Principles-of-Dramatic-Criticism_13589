@@ -1,0 +1,28 @@
+_repo: The-Theory-of-the-Theatre-and-Other-Principles-of-Dramatic-Criticism_13589
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hamilton, Clayton Meeker
+    birthdate: 1881
+    deathdate: 1946
+    gutenberg_agent_id: '5143'
+    url: http://www.gutenberg.org/2009/agents/5143
+description: ''
+gutenberg_issued: '2004-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13589'
+  lccn: '10009860'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Theater'
+- !lcsh 'Drama -- History and criticism -- Theory, etc.'
+title: The Theory of the Theatre, and Other Principles of Dramatic Criticism
+url: http://www.gutenberg.org/ebooks/13589
